@@ -23,7 +23,7 @@ Here's what I'm currently focused on:
 
 - Coding is my Passion.I love new challenges.
 - Cybersecurity is my hobbie. (Ethical Penetration Testing is Fun!).
-- I love to learn skills apart Tech too.
+- I love Linux.
 
 ## - 📫 How to reach me:
 
