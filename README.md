@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Hey, I'm Rajveer Singh 👋 
 
-I'm a 23-year-old developer currently studying in Canada, and I'm passionate about crafting . 
+I'm a 23-year-old developer currently studying in Canada, and I love to code. 
 
 <!--- Check out my [website](https://www.miraya.tech/) to learn more about me.
 - Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.-->
