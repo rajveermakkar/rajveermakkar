@@ -27,7 +27,7 @@ Here's what I'm currently focused on:
 
 ## - 📫 How to reach me:
 
- For a quick response, DM me on [Instagram](https://www.instagram.com/rajveeeerrrrrrrrrr/) or [LinkedIn](https://www.linkedin.com/in/rajveermakkar08/). 
+ For a quick response, DM me on [Instagram](https://www.instagram.com/rajveeeerrrrrrrrrr/) or [LinkedIn](https://www.linkedin.com/in/rajveermakkar/). 
  
  For professional inquiries, reach out via email at [rajveermakkar08@gmail.com](mailto:rajveermakkar08@gmail.com). 
 <!--
