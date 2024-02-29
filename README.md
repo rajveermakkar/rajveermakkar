@@ -5,7 +5,7 @@ I'm a 23-year-old developer currently studying in Canada, and I love to code.
 
 <!--- Check out my [website](https://www.miraya.tech/) to learn more about me.
 - Explore my [blog](https://mirayatech.hashnode.dev/?source=top_nav_blog_home) where I share insights and learnings.-->
-- Stay updated with my journey on [Instagram](https://www.instagram.com/rajveeeerrrrrrrrrr), [LinkedIn](https://www.linkedin.com/in/rajveermakkar).
+- Stay updated with my journey on [LinkedIn](https://www.linkedin.com/in/rajveermakkar).
 <!--- Explore my [VS Code Configuration](https://github.com/mirayatech/vscode-settings) for development optimization.-->
 
 ## 🔭 Currently Persuing: 
